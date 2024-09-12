@@ -29,7 +29,6 @@ int main()
 
     for(int i=0; i<=n; i++)
     {
-
         S = S + pow(-1, i+1)*(pow(x, 2*i+1)/giaithua(2*i+1));
     }
 
